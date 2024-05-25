@@ -16,10 +16,11 @@
 
 ### Обо мне
 
-- Учу язык Rust:crab:
-- Люблю писать скрипты, парсеры и чат-боты на Python:fire:
+- Учу язык Rust :crab:
+- Люблю писать скрипты, парсеры и чат-боты на Python :fire:
 
 ---
+
 <div id="languages-and-tools" align="center">
     <h3>Языки и технологии</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="arch" width="50" height="50"/> 
@@ -32,6 +33,7 @@
 </div>
 
 ### Статистика
+
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ballkicker18&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ballkicker18&theme=github_dark" alt=""/>
